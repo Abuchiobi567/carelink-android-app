@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose handles styling, so the platform theme just needs to be a Material3 base. -->
+    <style name="Theme.CareLink" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
